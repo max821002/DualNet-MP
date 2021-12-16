@@ -20,7 +20,6 @@ Place all files in the same directory.
 
 ### Step 2. Download Required Data
 Download all the data from https://drive.google.com/drive/folders/1sXX6KNmP2vRIJTRnsWTwV5x7WLMCxEFb?usp=sharing. After you got the data, put the data in the same directory of the main file "DualNet-MP".
-```
 
 ### Step 3. Run the file
 Now, you are ready to run DualNet-MP.py to get the results.
