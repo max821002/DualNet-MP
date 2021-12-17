@@ -28,12 +28,10 @@ Note that there is another augement '-fspo', you can switch on (= 1) to train th
 You can also adjust other parameters such as compression ratios by changing other arguments.
 
 ## Result
-The following results are reproduced from Table I of our paper:
-
 | CR_{PHA} |  Indoor | Outdoor |
 |:--------:|:-------:|:-------:|
 |          |   NMSE  |   NSME  |
-|    1/8   |   -7.59 | -17.513 |
+|    1/8   | -19.802 | -17.513 |
 |   1/16   | -17.465 | -12.045 |
 
 ## Remarks
